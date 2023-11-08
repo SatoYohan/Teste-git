@@ -1,8 +1,8 @@
 # Teste-git
 #
-#   Meu primeito commit com base no curso em vídeo 
+#   Meu primeito commit com base no curso de php moderno, do canal curso em vídeo!
 #
-#   Vou continuar commitando conforme o curso for seguindo
+#   Vou continuar commitando conforme o curso for seguindo.
 #
 #
 #
